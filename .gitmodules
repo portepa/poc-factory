@@ -1,0 +1,3 @@
+[submodule "pcf-ers-demo"]
+	path = pcf-ers-demo
+	url = https://github.com/avasseur-pivotal/pcf-ers-demo
