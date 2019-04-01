@@ -1,3 +1,6 @@
 [submodule "pcf-ers-demo"]
 	path = pcf-ers-demo
 	url = https://github.com/avasseur-pivotal/pcf-ers-demo
+[submodule "fortune-teller"]
+	path = fortune-teller
+	url = https://github.com/alexandreroman/fortune-teller
