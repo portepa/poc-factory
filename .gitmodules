@@ -4,3 +4,6 @@
 [submodule "fortune-teller"]
 	path = fortune-teller
 	url = https://github.com/alexandreroman/fortune-teller
+[submodule "cf-petclinic-wildfly"]
+	path = cf-petclinic-wildfly
+	url = https://github.com/alexandreroman/cf-petclinic-wildfly.git
